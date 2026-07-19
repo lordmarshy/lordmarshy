@@ -84,13 +84,13 @@ I'm working for for a startup as a fullstack developer.
 
 - **[Mood_Tracker_CLI](https://github.com/wobwobbird/Mood_Tracker)**  
   Mental Health Tracker CLI tool, record mood and review results. Uses Ink to create a full screen TUI, saves results in a SQLite database.  
-  [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,sqlite,react)](https://skillicons.dev)  
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,sqlite,react)](https://skillicons.dev)  
   `Also used: Ink`  
  
 - **[Tap 'O' Matic](https://github.com/wobwobbird/Tap-O-Matic)**  
   A React Native TypeScript random number generator app.  
   README includes Expo Go QR code, scan then view in the Expo Go app  
-  [![My Skills](https://skillicons.dev/icons?i=typescript,react)](https://skillicons.dev)  
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,react)](https://skillicons.dev)  
   `Also used: React Native | Expo`  
     
 - **[Super Connect](https://github.com/wobwobbird/Super-Connect-Game)**  
@@ -105,14 +105,14 @@ I'm working for for a startup as a fullstack developer.
 
 - **[Time_Blocks](https://github.com/wobwobbird/Time_Blocks)**  
   Time Blocks Logger is a small time-tracking app: log time by category (e.g. Coding, Learning, Game Dev), see daily and weekly totals, and enforce a 24-hour-per-day limit so you can’t over-log a single day.  
-  [![My Skills](https://skillicons.dev/icons?i=javascript,nextjs,prisma,postgres)](https://skillicons.dev)  
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,nextjs,prisma,postgres)](https://skillicons.dev)  
   `Also used: React Admin | Supabase`
 
 **Learning Projects**
 - **[Ravenous_Restaurant_Search_API_App](https://github.com/wobwobbird/Ravenous_Restaurant_Search_API_App)**  
   A React web app that searches for restaurants using the Yelp API  
   This was a project for the 'skill path Create a Front-End App with React' on Codecademy.com  
-  [![My Skills](https://skillicons.dev/icons?i=javascript,react)](https://skillicons.dev)  
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,react)](https://skillicons.dev)  
 
 **Commercial Work**
 - **iRealty Front-End**  
@@ -126,7 +126,7 @@ I'm working for for a startup as a fullstack developer.
   Working as a Full-Stack Product Developer building an internal certification platform for acoustic project workflows.  
   Developing a system that ingests certificates, stores structured data in a database, displays records in a React admin panel, generates QR codes, and links public users to certificate verification pages.  
   Working across backend architecture, authentication, database design, admin tooling, and frontend product features.  
-  [![My Skills](https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,express,postgres,sqlite,prisma,tailwind,vercel,aws,figma,bun)](https://skillicons.dev)  
+  [![My Skills](https://skillicons.dev/icons?i=bun,typescript,react,nextjs,nodejs,express,postgres,sqlite,prisma,tailwind,vercel,aws,figma)](https://skillicons.dev)  
 
 ---
 
