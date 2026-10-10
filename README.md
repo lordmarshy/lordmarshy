@@ -1,147 +1,90 @@
-[![Hello](assets/hello.gif)](https://wobwobbird.github.io/ß)
+<div align="center">
 
-# Hi I'm Guy - Junior Full-Stack Developer
+# Hi, I'm Guy
 
-I’m a Full-Stack Developer based in London with two years of intensive self-driven learning and nine months of commercial experience at a PropTech startup.
+### Full-stack product engineer building useful, thoughtful products.
 
-Recently, I’ve been focusing more on backend development, working with Node.js, Express, server architecture, authentication, and databases including SQLite and PostgreSQL.
+Based in London · Mostly backend, always end-to-end · [LinkedIn](https://www.linkedin.com/in/guymarshman)
 
-```
-I love building!
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guymarshman)
-
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+| Frontend | Backend | Product design |
+| :--- | :--- | :--- |
+| I build responsive, accessible interfaces that feel clear and dependable across devices. | I design and build the systems behind the product: APIs, authentication, data, and integrations. | I turn real user problems into focused, considered product experiences—from early ideas to production. |
 
-**Languages:**  
-<picture><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></picture>
-<picture><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></picture>
-<picture><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></picture>
-<picture><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></picture>
-<picture><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></picture>
-<picture><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></picture>
+## Selected work
 
-**Frameworks & Libraries:**  
-<picture><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></picture>
-<picture><img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></picture>
-<picture><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></picture>
-<picture><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /></picture>
-<picture><img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" /></picture>
+<table>
+  <tr>
+    <td width="48%" valign="top">
+      <a href="https://github.com/wobwobbird/gitproof">
+        <img src="./assets/git-proof.png" alt="Git Proof dashboard" />
+      </a>
+    </td>
+    <td width="52%" valign="top">
+      <h3><a href="https://github.com/wobwobbird/gitproof">Git Proof</a></h3>
+      <p>Developer-proof platform for attaching and verifying projects, then publishing a shareable read-only proof page.</p>
+      <p><code>Next.js</code> · <code>TypeScript</code> · <code>Prisma</code> · <code>Neon</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="52%" valign="top">
+      <h3><a href="https://github.com/wobwobbird/Mood_Tracker">Mood Tracker</a></h3>
+      <p>A terminal-based mood tracker for logging how you feel and reviewing your history from the command line.</p>
+      <p><code>Node.js</code> · <code>SQLite</code> · <code>Ink</code></p>
+    </td>
+    <td width="48%" valign="top">
+      <a href="https://github.com/wobwobbird/Mood_Tracker">
+        <img src="./assets/mood-tracker-menu.png" alt="Mood Tracker terminal menu" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="48%" valign="top">
+      <a href="https://github.com/wobwobbird/Super-Connect-Game">
+        <img src="./assets/super-connect-cover.png" alt="Super Connect gameplay" />
+      </a>
+    </td>
+    <td width="52%" valign="top">
+      <h3><a href="https://github.com/wobwobbird/Super-Connect-Game">Super Connect</a></h3>
+      <p>A two-player Connect Four-style game with player setup, scoring, animations, music controls, and a 3D world.</p>
+      <p><code>C#</code> · <code>Unity</code></p>
+    </td>
+  </tr>
+</table>
 
-**Backend & Databases:**  
-<picture><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></picture>
-<picture><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></picture>
-<picture><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></picture>
-<picture><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></picture>
-<picture><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /></picture>
+### [Time Blocks](https://github.com/wobwobbird/Time_Blocks)
 
-**Tools:**  
-<picture><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></picture>
-<picture><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></picture>
+A time-tracking app for logging work by category, reviewing daily and weekly totals, and keeping every day within 24 hours.
 
-**Other Skills & Knowledge:**  
-<picture><img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest-api&logoColor=white" /></picture>
-<picture><img src="https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white" /></picture>
-<picture><img src="https://img.shields.io/badge/Command_Line-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" /></picture>
-<picture><img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" /></picture>
-<picture><img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" /></picture>
-
----
-
-## ⚡ Projects & Work
-**Hand Coded Projects**
-
-- **[Mood_Tracker_CLI](https://github.com/wobwobbird/Mood_Tracker)**  
-  Mental Health Tracker CLI tool, record mood and review results. Uses Ink to create a full screen TUI, saves results in a SQLite database.  
-  [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,sqlite,react)](https://skillicons.dev)  
-  `Also used: Ink`  
- 
-- **[Tap 'O' Matic](https://github.com/wobwobbird/Tap-O-Matic)**  
-  A React Native TypeScript random number generator app.  
-  README includes Expo Go QR code, scan then view in the Expo Go app  
-  [![My Skills](https://skillicons.dev/icons?i=typescript,react)](https://skillicons.dev)  
-  `Also used: React Native | Expo`  
-    
-- **[Super Connect](https://github.com/wobwobbird/Super-Connect-Game)**  
-  A two-player turn-based Connect 4–style game built in Unity 6 (URP). Get four in a row: horizontally, vertically, or diagonally to win. Full game with start scene, player naming, scoring, winning screen, music control, 3D background and animations.  
-  [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
-
-**AI Assisted Projects**
-- **[Time_Blocks](https://github.com/wobwobbird/Time_Blocks)**  
-  Time Blocks Logger is a small time-tracking app: log time by category (e.g. Coding, Learning, Game Dev), see daily and weekly totals, and enforce a 24-hour-per-day limit so you can’t over-log a single day.  
-  [![My Skills](https://skillicons.dev/icons?i=javascript,nextjs,prisma,postgres)](https://skillicons.dev)  
-  `Also used: React Admin | Supabase`
-
-**Learning Projects**
-- **[Ravenous_Restaurant_Search_API_App](https://github.com/wobwobbird/Ravenous_Restaurant_Search_API_App)**  
-  A React web app that searches for restaurants using the Yelp API  
-  This was a project for the 'skill path Create a Front-End App with React' on Codecademy.com  
-  [![My Skills](https://skillicons.dev/icons?i=javascript,react)](https://skillicons.dev)  
-
-**Commercial Work**
-- **iRealty Front-End**  
-  Worked as a Junior Front-End Developer at the PropTech startup  
-  Converted the customer facing CRM to tablet and mobile responsive, and built a customer support pannel available across the app  
-  Built property filtering, comparison tools, and multilingual support (Catalan/French)  
-  [![My Skills](https://skillicons.dev/icons?i=javascript,react,redux,css,sass,tailwind)](https://skillicons.dev)  
+`Next.js` · `Prisma` · `PostgreSQL` · `Supabase`
 
 ---
 
-## 📝 Currently Learning
+## Commercial work
 
-```yaml
-- AI Chatbots
-- Docker
-```
+### iRealty Front-End
+
+Junior Front-End Developer at a PropTech startup. I made the customer-facing CRM responsive for tablet and mobile, and built property filtering, comparison, multilingual support, and a customer-support panel used across the app.
+
+`JavaScript` · `React` · `Redux` · `Sass` · `Tailwind CSS`
+
+### Sownd Affects
+
+Full-Stack Product Developer on an internal certification platform for acoustic project workflows. I work across certificate ingestion, structured data, React admin tools, QR codes, public verification pages, authentication, and product features.
+
+`React` · `Node.js` · `PostgreSQL` · `Authentication`
 
 ---
 
-<details>
-  <summary><strong>Career Flow Chart</strong></summary>
-  
-```mermaid
-graph LR
-A[QS Degree] --> B(Assistant QS)
-B --> C(Digital Marketing)
-C --> D(Sales)
-D --> E(Junior Dev)
-E -- Startup went bust --> H((Now))
+## Now
 
-B -- Free time --> F{Ecom Side Business}
-F -- Free time --> D
-D -- Free time --> G{Learning code}
-G -- Free time --> H
+Currently deepening my knowledge of **Bun**, **Turborepo**, **Next.js App Router**, **tRPC**, **Better Auth**, **Prisma**, **Neon**, **AI chatbots**, and **Docker**.
 
-A[QS Degree] 
-B(Assistant QS)
-C(Digital Marketing)
-D(Sales)
-E(Junior Dev)
-H((Now))
-F{Ecom Side Business}
-G{Learning code}
+<div align="center">
 
-```
+_Always happy to connect about thoughtful products, useful tools, and interesting problems._
 
-
-</details>
-
-<details>
-  <summary><strong>...</strong></summary>
-  
-**Hello World!**  
-**LordMarshy**
-
-</details>
-
-
-![Profile views](https://komarev.com/ghpvc/?username=wobwobbird&style=flat&color=green)
-![Profile views](https://komarev.com/ghpvc/?username=wobwobbird&style=flat&color=orange)
-![Profile views](https://komarev.com/ghpvc/?username=wobwobbird&style=flat&color=blue)
-
-
-
+</div>
