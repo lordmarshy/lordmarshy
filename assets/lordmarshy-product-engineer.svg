@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
-  <title id="title">LordMarshy — Design, Build, Ship</title>
+  <title id="title">LordMarshy — Full-Stack Product Engineer</title>
   <desc id="desc">An animated editorial dashboard that builds itself section by section.</desc>
   <style>
     .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
@@ -42,7 +42,7 @@
 
   <g class="stage name">
     <text x="520" y="190" class="serif" font-size="58" font-weight="700" fill="#201e1b">LordMarshy</text>
-    <text x="522" y="226" class="sans" font-size="13" letter-spacing="3.6" fill="#722f2a">PRODUCT ENGINEER</text>
+    <text x="522" y="226" class="sans" font-size="13" letter-spacing="3.6" fill="#722f2a">FULL-STACK PRODUCT ENGINEER</text>
   </g>
   <g class="stage design sans" font-size="31" font-weight="750" letter-spacing="1.2">
     <text x="520" y="312" fill="#722f2a">DESIGN</text>
