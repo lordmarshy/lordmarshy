@@ -1,15 +1,6 @@
 <p align="center">
-  <a href="https://wobwobbird.github.io/">
-    <img src="assets/hello.gif" alt="Hello" />
-  </a>
+  <img src="./assets/lordmarshy-product-engineer.svg" alt="LordMarshy — Product Engineer: Design, Build, Ship" width="960" />
 </p>
-
-<div align="center" style="width: 320px;">
-  
-  # Hi I'm Guy - Full-Stack Developer
-  
-</div>
-
 
 
 I’m a Full-Stack Developer based in London with two years of intensive self-driven learning and nine months of commercial experience at a PropTech startup.
