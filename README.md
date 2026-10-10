@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/lordmarshy-product-engineer.svg" alt="LordMarshy — Product Engineer: Design, Build, Ship" width="100%" />
+  <img src="./assets/lordmarshy-product-engineer.svg" alt="LordMarshy — Product Engineer: Design, Build, Ship" width="960" />
 </p>
 
 # Hi I'm Guy - Junior Full-Stack Developer

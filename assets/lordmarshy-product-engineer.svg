@@ -5,67 +5,69 @@
     .sans { font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
     .serif { font-family: Georgia, "Times New Roman", serif; }
     .stage { opacity: 0; animation: enter 12s infinite both; }
-    .sidebar { animation-delay: .45s; }
-    .brand { animation-delay: 1.15s; }
-    .nav1 { animation-delay: 1.75s; } .nav2 { animation-delay: 1.9s; } .nav3 { animation-delay: 2.05s; }
-    .nav4 { animation-delay: 2.2s; } .nav5 { animation-delay: 2.35s; } .nav6 { animation-delay: 2.5s; }
-    .mark { animation-delay: 3.15s; } .name { animation-delay: 3.7s; }
-    .design { animation-delay: 4.35s; } .build { animation-delay: 4.9s; } .ship { animation-delay: 5.45s; }
-    .detail { animation-delay: 6.05s; } .footer { animation-delay: 6.35s; }
+    .sidebar-shell { animation-delay: 2.05s; }
+    .content-shell { animation-delay: 3.75s; }
+    .rail { animation-delay: 2.55s; }
+    .nav1 { animation-delay: 2.7s; } .nav2 { animation-delay: 2.88s; } .nav3 { animation-delay: 3.06s; }
+    .nav4 { animation-delay: 3.24s; } .nav5 { animation-delay: 3.42s; } .nav6 { animation-delay: 3.6s; }
+    .name { animation-delay: 4.55s; }
+    .cue { animation-delay: 4.75s; }
+    .design { animation-delay: 5.1s; } .build { animation-delay: 5.55s; } .ship { animation-delay: 6s; }
     .cursor { animation: cursor 12s infinite both; }
     .ring-a { animation: clicka 12s infinite both; } .ring-b { animation: clickb 12s infinite both; }
-    .underline { stroke-dasharray: 270; stroke-dashoffset: 270; animation: draw 12s infinite both; }
+    .rail-line { stroke-dasharray: 260; stroke-dashoffset: 260; animation: rail-draw 12s 2.55s infinite both; }
     @keyframes enter { 0%, 3% { opacity: 0; transform: translateY(12px); } 7%, 82% { opacity: 1; transform: translateY(0); } 90%, 100% { opacity: 0; transform: translateY(0); } }
-    @keyframes draw { 0%, 47% { stroke-dashoffset: 270; } 55%, 82% { stroke-dashoffset: 0; } 90%, 100% { stroke-dashoffset: 270; } }
-    @keyframes cursor { 0%, 4% { opacity: 0; transform: translate(190px,515px); } 7%, 18% { opacity: 1; transform: translate(190px,515px); } 23% { opacity: 1; transform: translate(610px,440px); } 28% { opacity: 1; transform: translate(610px,440px) scale(.94); } 32% { opacity: 1; transform: translate(790px,355px); } 37% { opacity: 1; transform: translate(790px,355px) scale(.94); } 42% { opacity: 1; transform: translate(890px,475px); } 47% { opacity: 1; transform: translate(890px,475px) scale(.94); } 55% { opacity: 0; transform: translate(890px,475px); } 100% { opacity: 0; } }
-    @keyframes clicka { 0%, 21%, 28%, 30%, 36%, 38%, 45%, 47%, 100% { opacity: 0; } 23%, 32%, 42% { opacity: .65; } 25%, 34%, 44% { opacity: 0; } }
-    @keyframes clickb { 0%, 22%, 28%, 31%, 37%, 41%, 47%, 100% { opacity: 0; } 23.5%, 32.5%, 42.5% { opacity: .35; } 25.5%, 34.5%, 44.5% { opacity: 0; } }
-    @media (prefers-reduced-motion: reduce) { .stage { opacity: 1; animation: none; } .cursor, .ring-a, .ring-b { display: none; } .underline { stroke-dashoffset: 0; animation: none; } }
+    @keyframes rail-draw { 0%, 2% { stroke-dashoffset: 260; } 12%, 82% { stroke-dashoffset: 0; } 90%, 100% { stroke-dashoffset: 260; } }
+    @keyframes cursor { 0%, 7% { opacity: 0; transform: translate(62px,254px); } 10%, 17% { opacity: 1; transform: translate(62px,254px); } 21% { opacity: 1; transform: translate(62px,254px) scale(.94); } 26% { opacity: 1; transform: translate(553px,170px); } 32% { opacity: 1; transform: translate(553px,170px) scale(.94); } 37% { opacity: 1; transform: translate(513px,215px); } 42% { opacity: 1; transform: translate(513px,215px) scale(.94); } 48% { opacity: 0; transform: translate(513px,215px); } 100% { opacity: 0; } }
+    @keyframes clicka { 0%, 19%, 22%, 30%, 33%, 40%, 43%, 100% { opacity: 0; } 21%, 32%, 42% { opacity: .65; } 23%, 34%, 44% { opacity: 0; } }
+    @keyframes clickb { 0%, 20%, 22%, 31%, 33%, 41%, 43%, 100% { opacity: 0; } 21.5%, 32.5%, 42.5% { opacity: .35; } 23.5%, 34.5%, 44.5% { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) { .stage { opacity: 1; animation: none; } .cursor, .ring-a, .ring-b { display: none; } .rail-line { stroke-dashoffset: 0; animation: none; } }
   </style>
 
   <rect width="1200" height="630" fill="#eae5d7"/>
-  <rect class="stage sidebar" x="24" y="24" width="300" height="582" rx="18" fill="#e2dccd"/>
-  <rect class="stage sidebar" x="348" y="24" width="828" height="582" rx="22" fill="#f8f3e9"/>
+  <rect class="stage sidebar-shell" x="24" y="24" width="300" height="582" rx="18" fill="#e2dccd"/>
+  <rect class="stage content-shell" x="348" y="24" width="828" height="582" rx="22" fill="#f8f3e9"/>
 
-  <g class="stage brand">
-    <path d="M55 62h38M61 62V45m11 17V40m11 22V47m11 15V38m-43 24h46" fill="none" stroke="#722f2a" stroke-width="3" stroke-linecap="round"/>
-    <text x="112" y="66" class="sans" font-size="18" font-weight="700" fill="#722f2a">LordMarshy</text>
-    <path d="M48 95h244" stroke="#c8bfad"/>
+  <g class="stage rail">
+    <path class="rail-line" d="M76 160V420" fill="none" stroke="#bdb3a1" stroke-width="2" stroke-linecap="round"/>
   </g>
-  <g class="sans" font-size="15" font-weight="650" fill="#262421">
-    <g class="stage nav1"><text x="48" y="137">01 · Discover</text><text x="276" y="137" fill="#766f64">↗</text></g>
-    <g class="stage nav2"><text x="48" y="184">02 · Define</text><text x="276" y="184" fill="#766f64">↗</text></g>
-    <g class="stage nav3"><text x="48" y="231">03 · Design</text><text x="276" y="231" fill="#766f64">↗</text></g>
-    <g class="stage nav4"><text x="48" y="278">04 · Front-end</text><text x="276" y="278" fill="#766f64">↗</text></g>
-    <g class="stage nav5"><text x="48" y="325">05 · Back-end</text><text x="276" y="325" fill="#766f64">↗</text></g>
-    <g class="stage nav6"><text x="48" y="372">06 · Ship</text><text x="276" y="372" fill="#766f64">↗</text></g>
+  <g>
+    <g class="stage nav1"><circle cx="76" cy="160" r="9" fill="#262421"/><rect x="104" y="153" width="142" height="14" rx="7" fill="#bdb3a1"/></g>
+    <g class="stage nav2"><circle cx="76" cy="212" r="9" fill="#262421"/><rect x="104" y="205" width="104" height="14" rx="7" fill="#c8bfad"/></g>
+    <g class="stage nav3"><circle cx="76" cy="264" r="9" fill="#262421"/><rect x="104" y="257" width="165" height="14" rx="7" fill="#bdb3a1"/></g>
+    <g class="stage nav4"><circle cx="76" cy="316" r="9" fill="#262421"/><rect x="104" y="309" width="121" height="14" rx="7" fill="#c8bfad"/></g>
+    <g class="stage nav5"><circle cx="76" cy="368" r="9" fill="#262421"/><rect x="104" y="361" width="152" height="14" rx="7" fill="#bdb3a1"/></g>
+    <g class="stage nav6"><circle cx="76" cy="420" r="10" fill="#722f2a"/><rect x="104" y="413" width="116" height="14" rx="7" fill="#722f2a"/></g>
   </g>
 
-  <g class="stage mark">
-    <g transform="translate(520 122)">
-      <rect x="0" y="42" width="148" height="10" rx="2" fill="#722f2a"/>
-      <path d="M30 42V5m29 37V-9m29 51V12m29 30V-3" stroke="#24221f" stroke-width="3"/>
-      <circle cx="30" cy="4" r="8" fill="#24221f"/><circle cx="59" cy="-10" r="8" fill="#24221f"/><circle cx="88" cy="11" r="8" fill="#24221f"/><circle cx="117" cy="-4" r="8" fill="#24221f"/>
+  <g class="stage name">
+    <text x="520" y="190" class="serif" font-size="58" font-weight="700" fill="#201e1b">LordMarshy</text>
+    <text x="522" y="226" class="sans" font-size="13" letter-spacing="3.6" fill="#722f2a">PRODUCT ENGINEER</text>
+  </g>
+  <g class="stage cue">
+    <g transform="translate(1040 169)">
+      <circle r="27" fill="none" stroke="#722f2a" stroke-width="2.5"/>
+      <path d="M-8-13v28l7-7 7 13 7-4-7-13h12z" fill="#722f2a" stroke="#f8f3e9" stroke-width="1.5" stroke-linejoin="round"/>
     </g>
   </g>
-  <g class="stage name">
-    <text x="520" y="274" class="serif" font-size="61" font-weight="700" fill="#201e1b">LordMarshy</text>
-    <text x="522" y="309" class="sans" font-size="13" letter-spacing="3.6" fill="#722f2a">PRODUCT ENGINEER</text>
+  <g class="stage design sans" font-size="31" font-weight="750" letter-spacing="1.2">
+    <text x="520" y="312" fill="#722f2a">DESIGN</text>
+    <path d="M742 303H1090" stroke="#c8bfad" stroke-width="3"/>
+    <path d="M742 303H985" stroke="#722f2a" stroke-width="3"/>
+    <circle cx="985" cy="303" r="9" fill="#722f2a"/>
   </g>
-  <g class="sans" font-weight="750" font-size="31" letter-spacing="1.2" fill="#201e1b">
-    <text class="stage design" x="520" y="375">DESIGN</text>
-    <text class="stage build" x="520" y="423">BUILD</text>
-    <text class="stage ship" x="520" y="471">SHIP</text>
+  <g class="stage build sans" font-size="31" font-weight="750" letter-spacing="1.2">
+    <text x="520" y="372" fill="#722f2a">BUILD</text>
+    <path d="M742 363H1090" stroke="#c8bfad" stroke-width="3"/>
+    <path d="M742 363H1035" stroke="#722f2a" stroke-width="3"/>
+    <circle cx="1035" cy="363" r="9" fill="#722f2a"/>
   </g>
-  <path class="underline" d="M520 489H790" fill="none" stroke="#722f2a" stroke-width="5" stroke-linecap="round"/>
-  <g class="stage detail">
-    <rect x="908" y="345" width="204" height="130" rx="12" fill="#eee7da" stroke="#d8cfbd"/>
-    <path d="M930 433c16-29 29 12 46-17s24-20 39-6 31 11 48-27 28 2 31-18" fill="none" stroke="#722f2a" stroke-width="4" stroke-linecap="round"/>
-    <circle cx="930" cy="433" r="4" fill="#722f2a"/><circle cx="1094" cy="365" r="4" fill="#722f2a"/>
-    <text x="930" y="373" class="sans" font-size="11" font-weight="700" letter-spacing="1.5" fill="#766f64">FROM IDEA TO IMPACT</text>
+  <g class="stage ship sans" font-size="31" font-weight="750" letter-spacing="1.2">
+    <text x="520" y="432" fill="#722f2a">SHIP</text>
+    <path d="M742 423H1090" stroke="#c8bfad" stroke-width="3"/>
+    <path d="M742 423H1070" stroke="#722f2a" stroke-width="3"/>
+    <circle cx="1070" cy="423" r="9" fill="#722f2a"/>
   </g>
-  <text class="stage footer sans" x="520" y="553" font-size="14" fill="#766f64">A blank page, thoughtfully brought to life.</text>
-
   <g class="cursor" transform="translate(190 515)">
     <path d="M0 0L0 27 7 20 13 33 19 30 13 17 24 17Z" fill="#201e1b" stroke="#f8f3e9" stroke-width="2" stroke-linejoin="round"/>
     <circle class="ring-a" cx="7" cy="10" r="15" fill="none" stroke="#722f2a" stroke-width="2"/>
