@@ -1,17 +1,11 @@
 <p align="center">
-  <img src="./assets/lordmarshy-product-engineer.svg" alt="LordMarshy — Product Engineer: Design, Build, Ship" width="960" />
+  <a href="https://wobwobbird.github.io/"><img src="./assets/lordmarshy-product-engineer.svg" alt="LordMarshy — Full-Stack Product Engineer: Design, Build, Ship" width="960" /></a>
 </p>
 
+# Guy - Full-Stack Product Engineer
 
-I’m a Full-Stack Developer based in London with two years of intensive self-driven learning and nine months of commercial experience at a PropTech startup.
+I’m a London-based full-stack product enginee
 
-Recently, I’ve been focusing more on backend development, working with Node.js, Express, server architecture, authentication, and databases including SQLite and PostgreSQL.
-
-I'm working for for a startup as a fullstack developer.
-
-<div align="center" style="width: 320px;">
-  <pre style="display: inline-block; max-width: 320px; margin: 0; text-align: left;"><code>I love building!</code></pre>
-</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guymarshman)
 
