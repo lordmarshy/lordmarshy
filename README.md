@@ -1,4 +1,6 @@
-[![Hello](assets/hello.gif)](https://wobwobbird.github.io/)
+<p align="center">
+  <a href="https://wobwobbird.github.io/"><img src="./assets/lordmarshy-product-engineer.svg" alt="LordMarshy — Product Engineer: Design, Build, Ship" width="960" /></a>
+</p>
 
 # Hi I'm Guy - Junior Full-Stack Developer
 
