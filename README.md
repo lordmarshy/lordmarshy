@@ -4,10 +4,8 @@
 
 # Guy - Full-Stack Product Engineer
 
-I design and ship thoughtful full-stack products, from internal tools to customer-facing experiences.
-
 <p align="center">
-  <a href="https://lordmarshy.github.io/" target="_blank" rel="noopener noreferrer"><img src="./assets/cta-view-portfolio.svg" alt="View Guy Marshman's portfolio" width="240" /></a>
+  <a href="https://lordmarshy.wombus.com/" target="_blank" rel="noopener noreferrer"><img src="./assets/cta-view-portfolio.svg" alt="View Guy Marshman's portfolio" width="240" /></a>
   <a href="https://www.linkedin.com/in/guymarshman" target="_blank" rel="noopener noreferrer"><img src="./assets/cta-connect-linkedin.svg" alt="Connect with Guy Marshman on LinkedIn" width="240" /></a>
 </p>
 
@@ -58,6 +56,26 @@ Currently developing my product-design practice.
 ---
 
 ## ⚡ Projects & Work
+
+<section>
+  <h3>Featured Commercial Work</h3>
+  <p>
+    <strong>Building the end-to-end certification platform and admin app at Sownd Affects.</strong><br>
+    Hired as the first developer, I manage the product and engineering work across the certification workflow: assessment data, internal tooling, digital certificates, and public verification pages.
+  </p>
+  <p>
+    <strong>Stack &amp; focus:</strong> TypeScript, Next.js, React, Express, tRPC, Prisma, Neon, and Turborepo. Full-stack product development, data modelling, admin tooling, authentication, and UX.
+  </p>
+</section>
+
+<section>
+  <h3>Earlier Commercial Work</h3>
+  <p>
+    <strong>iRealty — Junior Front-End Developer</strong><br>
+    Helped a PropTech startup make its customer-facing CRM tablet- and mobile-responsive, while building shared customer-support tooling, property filtering and comparison features, and multilingual support in Catalan and French.
+  </p>
+</section>
+
 **Hand Coded Projects**
 
 - **[Mood_Tracker_CLI](https://github.com/wobwobbird/Mood_Tracker)**  
