@@ -67,63 +67,43 @@ Currently developing my product-design practice.
 </section>
 
 <section>
-  <h4>iRealty - Junior Front-End Developer</strong></h4>
+  <h4>iRealty - Junior Front-End Developer</h4>
   <p>
     Worked on a PropTech startup, improving the customer-facing experience across mobile and tablet. Built shared customer-support tooling, property filtering and comparison features, and multilingual support in Catalan and French.
+  </p>
 
   <p><strong>Stack &amp; focus:</strong> Node.js · JavaScript · React · Redux · CSS · Sass · Tailwind CSS. Responsive UI, CRM features, customer-support tooling, and localisation.</p>
 </section>
 
-**Hand Coded Projects**
+<h3>Projects</h3>
 
-- **[Mood_Tracker_CLI](https://github.com/wobwobbird/Mood_Tracker)**  
-  Mental Health Tracker CLI tool, record mood and review results. Uses Ink to create a full screen TUI, saves results in a SQLite database.  
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,sqlite,react)](https://skillicons.dev)  
-  `Also used: Ink`  
- 
-- **[Tap 'O' Matic](https://github.com/wobwobbird/Tap-O-Matic)**  
-  A React Native TypeScript random number generator app.  
-  README includes Expo Go QR code, scan then view in the Expo Go app  
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,react)](https://skillicons.dev)  
-  `Also used: React Native | Expo`  
-    
-- **[Super Connect](https://github.com/wobwobbird/Super-Connect-Game)**  
-  A two-player turn-based Connect 4–style game built in Unity 6 (URP). Get four in a row: horizontally, vertically, or diagonally to win. Full game with start scene, player naming, scoring, winning screen, music control, 3D background and animations.  
-  [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
+<h4><a href="https://github.com/wobwobbird/Super-Connect-Game">Super Connect</a></h4>
+<p>A two-player turn-based Connect 4–style game built in Unity 6 (URP). Get four in a row: horizontally, vertically, or diagonally to win. Full game with start scene, player naming, scoring, winning screen, music control, 3D background and animations.</p>
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cs,unity" alt="C sharp and Unity" /></a></p>
 
-**AI Assisted Projects**
-- **[Git Proof](https://github.com/wobwobbird/gitproof)**  
-  Issue **developer proofs** for a GitHub username: attach projects (repo URL, optional live link, verified/revoked status, checklist flags), store them in **Neon** (serverless Postgres) via Prisma, and share a read-only public **`/proof/[id]`** page. Admin UI under **`/admin`**; frosted shell, App Router, server actions.  
-  [![My Skills](https://skillicons.dev/icons?i=bun,typescript,nextjs,react,prisma,postgres,tailwind)](https://skillicons.dev)  
-  `Also used: Neon`
+<h4><a href="https://github.com/wobwobbird/Mood_Tracker">Mood_Tracker_CLI</a></h4>
+<p>Mental Health Tracker CLI tool, record mood and review results. Uses Ink to create a full screen TUI, saves results in a SQLite database.</p>
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,javascript,sqlite,react" alt="Node.js, JavaScript, SQLite, and React" /></a><br><code>Also used: Ink</code></p>
 
-- **[Time_Blocks](https://github.com/wobwobbird/Time_Blocks)**  
-  Time Blocks Logger is a small time-tracking app: log time by category (e.g. Coding, Learning, Game Dev), see daily and weekly totals, and enforce a 24-hour-per-day limit so you can’t over-log a single day.  
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,nextjs,prisma,postgres)](https://skillicons.dev)  
-  `Also used: React Admin | Supabase`
+<h4><a href="https://github.com/wobwobbird/gitproof">Git Proof</a></h4>
+<p>Issue <strong>developer proofs</strong> for a GitHub username: attach projects (repo URL, optional live link, verified/revoked status, checklist flags), store them in <strong>Neon</strong> (serverless Postgres) via Prisma, and share a read-only public <code>/proof/[id]</code> page. Admin UI under <code>/admin</code>; frosted shell, App Router, server actions.</p>
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bun,typescript,nextjs,react,prisma,postgres,tailwind" alt="Bun, TypeScript, Next.js, React, Prisma, Postgres, and Tailwind CSS" /></a><br><code>Also used: Neon</code></p>
 
-**Learning Projects**
-- **[Ravenous_Restaurant_Search_API_App](https://github.com/wobwobbird/Ravenous_Restaurant_Search_API_App)**  
-  A React web app that searches for restaurants using the Yelp API  
-  This was a project for the 'skill path Create a Front-End App with React' on Codecademy.com  
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,react)](https://skillicons.dev)  
+<details>
+  <summary><strong>Other projects</strong></summary>
 
----
+  <h4><a href="https://github.com/wobwobbird/Tap-O-Matic">Tap 'O' Matic</a></h4>
+  <p>A React Native TypeScript random number generator app. README includes Expo Go QR code, scan then view in the Expo Go app.</p>
+  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,typescript,react" alt="Node.js, TypeScript, and React" /></a><br><code>Also used: React Native | Expo</code></p>
 
-## 📝 Currently Learning
+  <h4><a href="https://github.com/wobwobbird/Time_Blocks">Time_Blocks</a></h4>
+  <p>Time Blocks Logger is a small time-tracking app: log time by category (e.g. Coding, Learning, Game Dev), see daily and weekly totals, and enforce a 24-hour-per-day limit so you can’t over-log a single day.</p>
+  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,javascript,nextjs,prisma,postgres" alt="Node.js, JavaScript, Next.js, Prisma, and Postgres" /></a><br><code>Also used: React Admin | Supabase</code></p>
 
-```yaml
-- Bun
-- Turborepo
-- Next.js (App Router)
-- Express
-- tRPC
-- Better Auth
-- Prisma
-- Neon
-- AI Chatbots
-- Docker
-```
+  <h4><a href="https://github.com/wobwobbird/Ravenous_Restaurant_Search_API_App">Ravenous_Restaurant_Search_API_App</a></h4>
+  <p>A React web app that searches for restaurants using the Yelp API. This was a project for the 'skill path Create a Front-End App with React' on Codecademy.com.</p>
+  <p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,javascript,react" alt="Node.js, JavaScript, and React" /></a></p>
+</details>
 
 ---
 
