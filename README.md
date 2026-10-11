@@ -4,7 +4,7 @@
 
 # Guy - Full-Stack Product Engineer
 
-I’m a London-based full-stack product enginee
+I design and ship thoughtful full-stack products, from internal tools to customer-facing experiences.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guymarshman)
