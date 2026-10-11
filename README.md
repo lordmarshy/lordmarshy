@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://wobwobbird.github.io/"><img src="./assets/lordmarshy-product-engineer.svg" alt="LordMarshy — Full-Stack Product Engineer: Design, Build, Ship" width="960" /></a>
+  <a href="https://lordmarshy.github.io/" target="_blank" rel="noopener noreferrer"><img src="./assets/lordmarshy-product-engineer.svg" alt="LordMarshy — Full-Stack Product Engineer: Design, Build, Ship" width="960" /></a>
 </p>
 
 # Guy - Full-Stack Product Engineer
@@ -7,8 +7,8 @@
 I design and ship thoughtful full-stack products, from internal tools to customer-facing experiences.
 
 <p align="center">
-  <a href="https://wobwobbird.github.io/"><img src="./assets/cta-view-portfolio.svg" alt="View Guy Marshman's portfolio" width="240" /></a>
-  <a href="https://www.linkedin.com/in/guymarshman"><img src="./assets/cta-connect-linkedin.svg" alt="Connect with Guy Marshman on LinkedIn" width="240" /></a>
+  <a href="https://lordmarshy.github.io/" target="_blank" rel="noopener noreferrer"><img src="./assets/cta-view-portfolio.svg" alt="View Guy Marshman's portfolio" width="240" /></a>
+  <a href="https://www.linkedin.com/in/guymarshman" target="_blank" rel="noopener noreferrer"><img src="./assets/cta-connect-linkedin.svg" alt="Connect with Guy Marshman on LinkedIn" width="240" /></a>
 </p>
 
 
