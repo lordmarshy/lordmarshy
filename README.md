@@ -57,21 +57,18 @@ Currently developing my product-design practice.
 
 ## ⚡ Projects & Work
 
+<h3>Commercial Work</h3>
 <section>
-  <h3>Featured Commercial Work</h3>
+  <p><strong>Sownd Affects - Full-Stack Product Engineer</strong></p>
+
   <p>
-    <strong>Building the end-to-end certification platform and admin app at Sownd Affects.</strong><br>
-    Hired as the first developer, I manage the product and engineering work across the certification workflow: assessment data, internal tooling, digital certificates, and public verification pages.
-  </p>
-  <p>
-    <strong>Stack &amp; focus:</strong> TypeScript, Next.js, React, Express, tRPC, Prisma, Neon, and Turborepo. Full-stack product development, data modelling, admin tooling, authentication, and UX.
+    <img src="./assets/sownd-affects-product-engineer.svg" alt="Illustration of the Sownd Affects certification platform workflow" width="960" />
   </p>
 </section>
 
 <section>
-  <h3>Earlier Commercial Work</h3>
   <p>
-    <strong>iRealty — Junior Front-End Developer</strong><br>
+    <strong>iRealty - Junior Front-End Developer</strong><br>
     Helped a PropTech startup make its customer-facing CRM tablet- and mobile-responsive, while building shared customer-support tooling, property filtering and comparison features, and multilingual support in Catalan and French.
   </p>
 </section>
@@ -109,20 +106,6 @@ Currently developing my product-design practice.
   A React web app that searches for restaurants using the Yelp API  
   This was a project for the 'skill path Create a Front-End App with React' on Codecademy.com  
   [![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,react)](https://skillicons.dev)  
-
-**Commercial Work**
-- **iRealty Front-End**  
-  Worked as a Junior Front-End Developer at the PropTech startup  
-  Converted the customer facing CRM to tablet and mobile responsive, and built a customer support pannel available across the app  
-  Built property filtering, comparison tools, and multilingual support (Catalan/French)  
-  [![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,react,redux,css,sass,tailwind)](https://skillicons.dev)  
-
-- **Sownd Affects**  
-
-  Working as a Full-Stack Product Developer building an internal certification platform for acoustic project workflows.  
-  Developing a system that ingests certificates, stores structured data in a database, displays records in a React admin panel, generates QR codes, and links public users to certificate verification pages.  
-  Working across backend architecture, authentication, database design, admin tooling, and frontend product features.  
-  [![My Skills](https://skillicons.dev/icons?i=bun,typescript,react,nextjs,nodejs,express,postgres,sqlite,prisma,tailwind,vercel,aws,figma)](https://skillicons.dev)  
 
 ---
 
