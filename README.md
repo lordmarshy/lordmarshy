@@ -67,10 +67,11 @@ Currently developing my product-design practice.
 </section>
 
 <section>
+  <h4>iRealty - Junior Front-End Developer</strong></h4>
   <p>
-    <strong>iRealty - Junior Front-End Developer</strong><br>
-    Helped a PropTech startup make its customer-facing CRM tablet- and mobile-responsive, while building shared customer-support tooling, property filtering and comparison features, and multilingual support in Catalan and French.
-  </p>
+    Worked on a PropTech startup, improving the customer-facing experience across mobile and tablet. Built shared customer-support tooling, property filtering and comparison features, and multilingual support in Catalan and French.
+
+  <p><strong>Stack &amp; focus:</strong> Node.js · JavaScript · React · Redux · CSS · Sass · Tailwind CSS. Responsive UI, CRM features, customer-support tooling, and localisation.</p>
 </section>
 
 **Hand Coded Projects**
