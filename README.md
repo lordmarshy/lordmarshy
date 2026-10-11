@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://wobwobbird.github.io/"><img src="./assets/lordmarshy-product-engineer.svg" alt="LordMarshy — Full-Stack Product Engineer: Design, Build, Ship" width="960" /></a>
+  <a href="https://lordmarshy.github.io/" target="_blank" rel="noopener noreferrer"><img src="./assets/lordmarshy-product-engineer.svg" alt="LordMarshy — Full-Stack Product Engineer: Design, Build, Ship" width="960" /></a>
 </p>
 
 # Guy - Full-Stack Product Engineer
@@ -7,8 +7,8 @@
 I design and ship thoughtful full-stack products, from internal tools to customer-facing experiences.
 
 <p align="center">
-  <a href="https://wobwobbird.github.io/"><img src="./assets/cta-view-portfolio.svg" alt="View Guy Marshman's portfolio" width="240" /></a>
-  <a href="https://www.linkedin.com/in/guymarshman"><img src="./assets/cta-connect-linkedin.svg" alt="Connect with Guy Marshman on LinkedIn" width="240" /></a>
+  <a href="https://lordmarshy.github.io/" target="_blank" rel="noopener noreferrer"><img src="./assets/cta-view-portfolio.svg" alt="View Guy Marshman's portfolio" width="240" /></a>
+  <a href="https://www.linkedin.com/in/guymarshman" target="_blank" rel="noopener noreferrer"><img src="./assets/cta-connect-linkedin.svg" alt="Connect with Guy Marshman on LinkedIn" width="240" /></a>
 </p>
 
 
@@ -16,11 +16,44 @@ I design and ship thoughtful full-stack products, from internal tools to custome
 
 ## 🛠️ Core Toolkit
 
-**Product engineering** — TypeScript, React, Next.js, Node.js, Bun
+### Interface engineering
 
-**Data & backend** — PostgreSQL, Prisma, SQLite, Express, REST APIs
+<p>
+  <img src="./assets/toolkit-typescript.svg" alt="TypeScript" height="28" />
+  <img src="./assets/toolkit-react.svg" alt="React" height="28" />
+  <img src="./assets/toolkit-nextjs.svg" alt="Next.js" height="28" />
+  <img src="./assets/toolkit-tailwind-css.svg" alt="Tailwind CSS" height="28" />
+</p>
 
-**Delivery & design** — Tailwind CSS, GitHub, Figma, Vercel, AWS
+### Systems, data & deployment
+
+<p>
+  <img src="./assets/toolkit-nodejs.svg" alt="Node.js" height="28" />
+  <img src="./assets/toolkit-bun.svg" alt="Bun" height="28" />
+  <img src="./assets/toolkit-postgresql.svg" alt="PostgreSQL" height="28" />
+  <img src="./assets/toolkit-prisma.svg" alt="Prisma" height="28" />
+  <img src="./assets/toolkit-neon.svg" alt="Neon" height="28" />
+  <img src="./assets/toolkit-aws.svg" alt="AWS" height="28" />
+  <img src="./assets/toolkit-rest-apis.svg" alt="REST APIs" height="28" />
+</p>
+
+### Product design practice
+
+Currently developing my product-design practice.
+
+<p>
+  <img src="./assets/toolkit-interaction-patterns.svg" alt="Interaction patterns" height="28" />
+  <img src="./assets/toolkit-ux-heuristics.svg" alt="UX heuristics" height="28" />
+  <img src="./assets/toolkit-usability-testing.svg" alt="Usability testing" height="28" />
+</p>
+
+### Interactive development
+
+<p>
+  <img src="./assets/toolkit-unity.svg" alt="Unity" height="28" />
+  <img src="./assets/toolkit-csharp.svg" alt="C sharp" height="28" />
+  <img src="./assets/toolkit-game-development.svg" alt="Game development" height="28" />
+</p>
 
 ---
 
