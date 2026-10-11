@@ -24,7 +24,7 @@
     @media (prefers-reduced-motion: reduce) { .stage { opacity: 1; animation: none; } .cursor, .ring-a, .ring-b { display: none; } .rail-line { stroke-dashoffset: 0; animation: none; } }
   </style>
 
-  <rect width="1200" height="630" fill="#eae5d7"/>
+  <rect width="1200" height="630" rx="28" fill="#eae5d7"/>
   <rect class="stage sidebar-shell" x="24" y="24" width="300" height="582" rx="18" fill="#e2dccd"/>
   <rect class="stage content-shell" x="348" y="24" width="828" height="582" rx="22" fill="#f8f3e9"/>
 
